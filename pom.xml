@@ -15,8 +15,8 @@
 	
 	<properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jcstress.version>0.3</jcstress.version>
-        <javac.target>1.8</javac.target>
+        <jcstress.version>0.16</jcstress.version>
+        <javac.target>13</javac.target>
         <uberjar.name>jcstress</uberjar.name>
     </properties>
 
